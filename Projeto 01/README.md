@@ -1,7 +1,3 @@
-# Carrefour Web Developer 🚀
-
-Este repositório contém projetos desenvolvidos durante o programa **Carrefour Web Developer**, com foco em práticas modernas de desenvolvimento web.
-
 ## 📌 Projeto 01: Recriando a Interface do Netflix
 
 Este projeto recria a interface da Netflix utilizando as tecnologias:  
@@ -19,4 +15,3 @@ Este projeto recria a interface da Netflix utilizando as tecnologias:
 ## 📸 Captura de Tela
 
 ![Interface do Projeto 01](https://github.com/user-attachments/assets/e7a6bcb9-5c5a-4db4-89b2-8ca6669531e5)  
-
